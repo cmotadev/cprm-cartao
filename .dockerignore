@@ -1,0 +1,32 @@
+# Git
+.git
+.git/
+.gitignore
+LICENSE
+VERSION
+README.md
+Changelog.md
+Makefile
+docs
+
+# Docker
+docker-compose.yml
+.docker
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*/__pycache__/
+*/*/__pycache__/
+*/*/*/__pycache__/
+*.py[cod]
+*/*.py[cod]
+*/*/*.py[cod]
+*/*/*/*.py[cod]
+
+# Virtual environment
+.env/
+.venv/
+venv/
+
+# PyCharm
+.idea

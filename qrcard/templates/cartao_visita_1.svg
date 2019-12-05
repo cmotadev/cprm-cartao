@@ -39,17 +39,17 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1025"
+   inkscape:window-width="1843"
+   inkscape:window-height="1056"
    id="namedview1628"
    showgrid="false"
    showguides="true"
    inkscape:guide-bbox="true"
-   inkscape:zoom="4.3446147"
-   inkscape:cx="98.004113"
-   inkscape:cy="41.391513"
-   inkscape:window-x="0"
-   inkscape:window-y="27"
+   inkscape:zoom="3.0721065"
+   inkscape:cx="119.92186"
+   inkscape:cy="59.981445"
+   inkscape:window-x="77"
+   inkscape:window-y="24"
    inkscape:window-maximized="1"
    inkscape:current-layer="svg1626"
    inkscape:pagecheckerboard="false"
@@ -596,6 +596,8 @@
 
 
 
+
+
     <!-- CARGO -->
     <text
    id="card_title"
@@ -608,6 +610,8 @@
 
 
 
+
+
     <!--  BARRA LATERAL  -->
     <polygon
    id="polygon1607"
@@ -616,25 +620,14 @@
    class="fil1" />
 
     <!--  SGB  -->
-    <text
-   id="text1127"
-   x="2667.5645"
-   y="3200.7927"
-   class="fil0 fnt2"
-   style="font-weight:normal;font-size:211.66666734px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   transform="scale(1.1428648,0.87499415)">Serviço Geológico do Brasil - CPRM</text>
+    
 
 
 
 
     <!--  LOTAÇÃO  -->
-    <text
-   id="card_lotacao"
-   x="2667.5645"
-   y="3474.699"
-   class="fil0 fnt2"
-   style="font-weight:normal;font-size:211.66666734px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   transform="scale(1.1428648,0.87499415)">Divisão de Geoprocessamento - DIGEOP</text>
+    
+
 
 
 
@@ -643,114 +636,137 @@
     
 
     <!-- ADDRESS2 -->
-    <text
-   id="card_address2"
-   x="2667.5645"
-   y="4148.7607"
-   class="fil0 fnt2"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
-   transform="scale(1.1428648,0.87499415)">Avenida Pasteur, 404, Urca</text>
+    
 
 
 
 
     <!-- ADDRESS3 -->
-    <text
-   id="card_address3"
-   x="2667.5645"
-   y="4422.667"
-   class="fil0 fnt2"
-   style="font-weight:normal;font-size:211.66666734px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   transform="scale(1.1428648,0.87499415)">Rio de Janeiro - RJ - CEP.: 22290-255</text>
+    
 
 
 
 
-    <text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-weight:normal;font-size:211.66666855px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   class="fil0 fnt2"
-   y="4696.5732"
-   x="2667.5645"
-   id="text1441">Tel.:</text>
-
-
-<text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:176.3888855px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
-   class="fil0 fnt3"
-   y="4696.5732"
-   x="3052.1084"
-   id="text1589">55</text>
-
-
-<text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
-   class="fil0 fnt2"
-   y="4696.5732"
-   x="3266.5093"
-   id="card_work_phone_number">21 2546-0320</text>
+    
 
 
 
 
-    <text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-weight:normal;font-size:211.66666855px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   class="fil0 fnt2"
-   y="4970.4795"
-   x="2667.5645"
-   id="text1473">Celular:</text>
 
 
-<text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:176.3888855px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
-   class="fil0 fnt3"
-   y="4970.4795"
-   x="3354.458"
-   id="text1597">55</text>
 
 
-<text
-   transform="scale(1.1428648,0.87499414)"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
-   class="fil0 fnt2"
-   y="4970.4795"
-   x="3568.6348"
-   id="card_cell_phone_number">21 97551-7278</text>
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
 
 
 
 
     <!--  E-MAIL  -->
-    <g id="g662323">
-        <text
-       id="text3321"
-       x="2667.5645"
-       y="5244.3857"
-       class="fil0 fnt2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66666734px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr;text-anchor:start;fill:#373435;stroke-width:0.22396263;"
-       transform="scale(1.1428648,0.87499415)">E-mail: </text>
-
-        <text
-           id="card_email"
-           x="3269.5171"
-           y="5244.3687"
-           class="fil0 fnt2"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66665649px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;fill:#373435;fill-rule:evenodd;stroke-width:0.22396266;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-           transform="scale(1.1428649,0.87499407)">carlos.mota@cprm.gov.br</text>
-    </g>
+    
 
     <!--  SITE  -->
-    <text
-   id="text1559"
+    <g
+   id="g206"
+   transform="translate(0,-40.677754)"><text
+     inkscape:label="#card_company"
+     transform="scale(1.1428648,0.87499414)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+     class="fil0 fnt2"
+     y="4381.8477"
+     x="2667.5645"
+     id="card_company">Divisão de Geoprocessamento - DIGEOP</text>
+<g
+     transform="translate(0,-8.4748341)"
+     id="g190"><text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt2"
+       y="4696.5732"
+       x="2667.5645"
+       id="text1441">Tel.:</text>
+<text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:176.3888855px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt3"
+       y="4696.5732"
+       x="3052.1084"
+       id="text1589">55</text>
+<text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt2"
+       y="4696.5732"
+       x="3266.5093"
+       id="card_work_phone_number">21 2546-0320</text>
+</g><g
+     transform="translate(0,0.45433879)"
+     id="g185"><text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt2"
+       y="4970.4795"
+       x="2667.5645"
+       id="text1473">Celular:</text>
+<text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:176.3888855px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt3"
+       y="4970.4795"
+       x="3354.458"
+       id="text1597">55</text>
+<text
+       transform="scale(1.1428648,0.87499414)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+       class="fil0 fnt2"
+       y="4970.4795"
+       x="3568.6348"
+       id="card_cell_phone_number">21 97551-7278</text>
+</g><g
+     transform="translate(0,-8.9138819)"
+     id="g180"><g
+       id="g662323">
+        <text
+   id="text3321"
    x="2667.5645"
-   y="5518.292"
+   y="5244.3857"
    class="fil0 fnt2"
-   style="font-weight:normal;font-size:211.66666734px;font-family:'Liberation Sans Narrow';fill:#373435;stroke-width:0.22396263;-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-style:normal;font-stretch:condensed;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-   transform="scale(1.1428648,0.87499415)">www.cprm.gov.br</text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+   transform="scale(1.1428648,0.87499415)">E-mail: </text>
+
+
+
+        <text
+   id="card_email"
+   x="3269.5171"
+   y="5244.3687"
+   class="fil0 fnt2"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66665649px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;clip-rule:evenodd;fill:#373435;fill-rule:evenodd;stroke-width:0.22396266;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   transform="scale(1.1428649,0.87499407)">carlos.mota@cprm.gov.br</text>
+
+
+    </g></g><text
+     transform="scale(1.1428648,0.87499414)"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:211.66667175px;font-family:'Liberation Sans Narrow';-inkscape-font-specification:'Liberation Sans Narrow, Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#373435;stroke-width:0.22396263"
+     class="fil0 fnt2"
+     y="5518.292"
+     x="2667.5645"
+     id="text1559">www.cprm.gov.br</text>
+</g>
+
 
 
 
